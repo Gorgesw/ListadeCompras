@@ -1,11 +1,11 @@
-img {
+header img {
     display: none;
     
 }
 
 
 @media (width >=80rem) {
-    img {
+   header img {
         padding-block: var(--py-lg);
         margin: auto;
         display: block;
