@@ -1,4 +1,4 @@
-# Lista de Compras - quicklist
+# Lista de Compras 
 
 ### 🚀 Sobre
   Aplicação de lista de compras utilizando HTML, CSS e JavaScript. Projeto inicial fornecido na formação fullstack da Rocketseat, em busca de ampliar conhecimentos e técnicas utilizando JavaScript.
